@@ -12,6 +12,25 @@
 
 ## 车道线检测
 
+- 2020
+  - Inter-region affinity distillation for road marking segmentation (CVPR2020)
+  - RONELD: Robust Neural Network Output Enhancement for Active Lane Detection (ICPR2020)
+  - Key points estimation and point instance segmentation approach for lane detection https://arxiv.org/abs/2002.06604
+
+- 2019
+  - 3d-lanenet: End-to-end 3d multiple lane detection (ICCV2019)
+  - End-to-end lane detection through differentiable leastsquares fitting (ICCV2019)
+  - Learning lightweight lane detection cnns by self attention distillation (ICCV2019)
+  - Multi-lane detection using instance segmentation and attentive voting (ICCAS2019)
+
+- 2018
+  - Elgan: Embedding loss driven generative adversarial networks for lane detection (ECCV2018)
+  - Spatial as deep: Spatial CNN for traffic scene understanding (AAAI2018)
+  - Towards end-to-end lane detection: an instance segmentation approach (IV2018)
+
+- 2017
+  - Vpgnet: Vanishing point guided network for lane and road marking detection and recognition (ICCV2017)
+
 ## 轻量化神经网络
 
 ## 数据增强
