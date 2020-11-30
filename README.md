@@ -9,6 +9,8 @@
 
 - Fast Object Segmentation Learning with Kernel-based Methods for Robotics https://arxiv.org/abs/2011.12805
 - Unsupervised Domain Adaptation in Semantic Segmentation via Orthogonal and Clustered Embeddings  https://arxiv.org/abs/2011.12616
+- SegBlocks: Block-Based Dynamic Resolution Networks for Real-Time Segmentation https://arxiv.org/abs/2011.12025 
+- Scaling Wide Residual Networks for Panoptic Segmentation https://arxiv.org/abs/2011.11675
 
 ## 车道线检测
 
@@ -33,7 +35,11 @@
 
 ## 轻量化神经网络
 
+- MicroNet: Towards Image Recognition with Extremely Low FLOPs https://arxiv.org/abs/2011.12289
+- 
+
 ## 数据增强
+- KeepAugment: A Simple Information-Preserving Data Augmentation Approach https://arxiv.org/abs/2011.11778
 
 ## 神经网络架构设计
 
@@ -44,3 +50,8 @@
 ## 技巧
 
 - Delving Deep into Label Smoothing https://arxiv.org/abs/2011.12562
+  
+
+## 数据集
+- 跟踪
+  - GMOT-40: A Benchmark for Generic Multiple Object Tracking  https://arxiv.org/abs/2011.11858
